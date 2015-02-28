@@ -6,6 +6,7 @@
 	* [Part 2](https://www.youtube.com/watch?v=Vhhq1WpzsnM) [53:04]
 
 ## 2014
+### DONE: 1, 
 1. [Ilya Grigorik: **Website Performance Optimization** (Udacity course)](https://www.udacity.com/course/ud884) [1:13:57]
 1. [Mark DiMarco: **User Interface Algorithms**](https://www.youtube.com/watch?v=90NsjKvz9Ns&index=2&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN) [27:41]
 1. [Neil Green: **Writing Custom DSLs**](https://www.youtube.com/watch?v=lm4jEcnWeKI&index=11&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN) [29:07]
@@ -23,6 +24,7 @@
 1. [Jafar Husain: **Version 7: The Evolution of JavaScript**](https://www.youtube.com/watch?v=DqMFX91ToLw) [1:11:53]
 
 ## 2013
+### DONE: 13 
 1. [Nat Duca, Tom Wiltzius: **Jank Free: Chrome Rendering Performance**](https://www.youtube.com/watch?v=n8ep4leoN9A&feature=youtu.be) [40:53]
 1. [Ilya Grigorik: **Automating Performance Best Practices with PageSpeed**](https://www.youtube.com/watch?v=uR5urTx8S4E&feature=youtu.be) [46:58]
 1. [Eric Bidelman: **Web Components**](https://www.youtube.com/watch?v=fqULJBBEVQE&feature=youtu.be) [32:39]
