@@ -6,7 +6,7 @@
 	* [Part 2](https://www.youtube.com/watch?v=Vhhq1WpzsnM) [53:04]
 
 ## 2014
-### DONE: 1,2,3 
+### DONE: 1,2,3,7,12 
 1. [Ilya Grigorik: **Website Performance Optimization** (Udacity course)](https://www.udacity.com/course/ud884) [1:13:57]
 1. [Mark DiMarco: **User Interface Algorithms**](https://www.youtube.com/watch?v=90NsjKvz9Ns&index=2&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN) [27:41]
 1. [Neil Green: **Writing Custom DSLs**](https://www.youtube.com/watch?v=lm4jEcnWeKI&index=11&list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN) [29:07] [done to 27:38]
