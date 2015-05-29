@@ -25,7 +25,7 @@
 1. [Jafar Husain: **Version 7: The Evolution of JavaScript**](https://www.youtube.com/watch?v=DqMFX91ToLw) [1:11:53]
 
 ## 2013
-### DONE: 13 
+### DONE: 13, 11
 1. [Nat Duca, Tom Wiltzius: **Jank Free: Chrome Rendering Performance**](https://www.youtube.com/watch?v=n8ep4leoN9A&feature=youtu.be) [40:53]
 1. [Ilya Grigorik: **Automating Performance Best Practices with PageSpeed**](https://www.youtube.com/watch?v=uR5urTx8S4E&feature=youtu.be) [46:58]
 1. [Eric Bidelman: **Web Components**](https://www.youtube.com/watch?v=fqULJBBEVQE&feature=youtu.be) [32:39]
