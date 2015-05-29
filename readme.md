@@ -1,6 +1,7 @@
 > This is a list of must-watch videos devoted to JavaScript
 
 ## 2015
+### DONE: 1
 1. Dr. Axel Rauschmayer: **Using ECMAScript 6 today** &#9832;
 	* [Part 1](https://www.youtube.com/watch?v=Fg3bEZIcnUw) [40:44]
 	* [Part 2](https://www.youtube.com/watch?v=Vhhq1WpzsnM) [53:04]
