@@ -67,4 +67,5 @@
 1. [Douglas Crockford: **Scene 6: Loopage**](https://www.youtube.com/watch?v=QgwSUtYSUqA) [51:52]
 
 ## 2009
+### DONE: 1
 1. [Nicholas Zakas: **Scalable JavaScript Application Architecture**](https://www.youtube.com/watch?v=vXjVFPosQHw) [52:22]
