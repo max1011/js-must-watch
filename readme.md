@@ -41,7 +41,7 @@
 1. [Mathias Bynens: **JavaScript ♥ Unicode**](https://vimeo.com/76597193) [26:12]
 
 ## 2012
-### DONE: 3 , 2 , 6
+### DONE: 4, 3 , 2 , 6
 1. [Ryan Sandor Richards: **Garbage Collection & Heap Management**](http://vimeo.com/45140516) [32:57]
 1. Addy Osmani: **Scaling Your JavaScript Applications**
 	* [Part 1](http://vimeo.com/35924671) [22:38]
@@ -53,6 +53,7 @@
 1. [Nicholas Zakas: **Maintainable JavaScript**](https://www.youtube.com/watch?v=c-kav7Tf834) [47:04]
 
 ## 2011
+### DONE: 4,3
 1. [Douglas Crockford: **Level 7: ECMAScript 5: The New Parts**](https://www.youtube.com/watch?v=UTEqr0IlFKY) [57:18]
 1. [Douglas Crockford: **Section 8: Programming Style and Your Brain**](https://www.youtube.com/watch?v=taaEzHI9xyY) [1:06:45]
 1. [Ryan Dahl: **Introduction to Node.js**](https://www.youtube.com/watch?v=jo_B4LTHi3I) [1:06:33]
