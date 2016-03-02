@@ -41,7 +41,7 @@
 1. [Mathias Bynens: **JavaScript ♥ Unicode**](https://vimeo.com/76597193) [26:12]
 
 ## 2012
-### DONE: 4, 3 , 2 , 6
+### DONE: 4, 3 , 2 (p. 1), 6
 1. [Ryan Sandor Richards: **Garbage Collection & Heap Management**](http://vimeo.com/45140516) [32:57]
 1. Addy Osmani: **Scaling Your JavaScript Applications**
 	* [Part 1](http://vimeo.com/35924671) [22:38]
